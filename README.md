@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Some Stats -
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&include_all_commits=true&theme=material-palenight" alt="kumar deepanshu github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&include_all_commits=true&theme=dark" alt="kumar deepanshu github stats" />
 
 <br/>
 <br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3&layout=compact&theme=dark" />
 
 <hr>
 ### Let's Connect 🔗

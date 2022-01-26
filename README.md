@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
  
  
-![Github stats](https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&theme=dark)
-
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&theme=dark)
+ -->
 ## Some Stats -
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&include_all_commits=true&theme=dark" alt="kumar deepanshu github stats" />

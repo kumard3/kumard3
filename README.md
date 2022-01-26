@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3)](https://github.com/kumard3)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&" alt="kumard3" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumard3&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

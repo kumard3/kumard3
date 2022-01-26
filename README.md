@@ -28,3 +28,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/kumar-deepanshu/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3)](https://github.com/kumard3)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&" alt="kumard3" /></p>

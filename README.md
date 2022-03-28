@@ -29,3 +29,9 @@ You can click the Preview link to take a look at your changes.
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/kumar-deepanshu/)
+
+
+[![kumard3's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumard3&bg_color=000000&color=4c9e56&line=4c9e9d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+

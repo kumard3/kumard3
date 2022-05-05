@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 # Hi 👋 I'm Kumar Deepanshu.
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&theme=dark)
- -->
 ## Some Stats -
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark&hide_border)](https://git.io/streak-stats)
 

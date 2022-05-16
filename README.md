@@ -14,9 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumard3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D")](https://git.io/streak-stats) -->
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&include_all_commits=true&theme=dark" alt="kumar deepanshu github stats" />
-
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3&layout=compact&theme=dark" />
+<!--   <img  src="https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&include_all_commits=true&theme=dark" alt="kumar deepanshu github stats" />    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3&layout=compact&theme=dark" /> -->
 
 
 

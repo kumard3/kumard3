@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi 👋 I'm Kumar Deepanshu.
+ and I am a Computer science Undergrad and a web developer. I really enjoy learning languages and frameworks like React, JavaScript, as well as work in Figma. I also enjoy wireframing, UI/UX, and design in general.
 
 ## Some Stats -
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark&hide_border)](https://git.io/streak-stats)

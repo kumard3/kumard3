@@ -1,34 +1,43 @@
 <!-- - 👋 Hi, I’m @kumard3
 - 👀 I’m interested in Full stack and M.L 
 - 🌱 I’m currently learning M.L  -->
-
-<!---
+<!-- 
 kumard3/kumard3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 
-# Hi 👋 I'm Kumar Deepanshu.
-I am a Computer science Undergrad and a web developer. I really enjoy learning languages and frameworks like React, JavaScript, as well as work in Figma. I also enjoy wireframing, UI/UX, and design in general.
+I am a Computer science Undergrad and a web developer. I really enjoy learning languages and frameworks like React, JavaScript, as well as work in Figma. I also enjoy wireframing, UI/UX, and design in general -->
 
-## Some Stats -
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark&hide_border)](https://git.io/streak-stats)
+ # Hi 👋 I'm Kumar Deepanshu.
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumard3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D")](https://git.io/streak-stats) -->
-
-<!--   <img  src="https://github-readme-stats.vercel.app/api?username=kumard3&show_icons=true&include_all_commits=true&theme=dark" alt="kumar deepanshu github stats" />    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumard3&layout=compact&theme=dark" /> -->
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
 
-### Profile views Counter
-  <img src="https://profile-counter.glitch.me/kumard3/count.svg" />
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-deepanshu/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kumard_3)
+<a href="kumardeepanshu157@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
-### Let's Connect 🔗
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/kumar-deepanshu/)
+## 📊 Github Analytics
+ <table>
+  <tr>
+   
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark&hide_border" alt="kumard3"/>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kumard3&count_private=true&show_icons=true&theme=dark&hide_border"/></td>
+  </tr>
+</table>
 
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
 
 [![kumard3's github activity graph](https://activity-graph.herokuapp.com/graph?username=kumard3&bg_color=000000&color=4c9e56&line=4c9e9d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br/>
 
 
+<br/>
 
+<!------------------------------------------------------------------------------------------------------------------------->
+
+<img src="https://profile-counter.glitch.me/kumard3/count.svg" />

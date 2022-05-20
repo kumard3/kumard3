@@ -19,16 +19,9 @@ I am a Computer science Undergrad and a web developer. I really enjoy learning l
 
 
 
-## 📊 Github Analytics
- <table>
- 
-   
-<td>
+## 📊 Github Analytics 
+
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark&hide_border" alt="kumard3"/>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kumard3&count_private=true&show_icons=true&theme=dark&hide_border"/></td>
-
-</table>
-
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>

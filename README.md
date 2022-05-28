@@ -21,7 +21,7 @@ I am a Computer science Undergrad and a web developer. I really enjoy learning l
 
 ## 📊 Github Analytics 
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark&hide_border" alt="kumard3"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark" alt="kumard3"/>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>

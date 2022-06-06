@@ -9,7 +9,7 @@ I am a Computer science Undergrad and a web developer. I really enjoy learning l
 
  # Hi 👋 I'm Kumar Deepanshu.
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="40px"> About me
 
 
 

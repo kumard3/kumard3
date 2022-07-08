@@ -9,7 +9,7 @@ I am a Computer science Undergrad and a web developer. I really enjoy learning l
 
  # Hi 👋 I'm Kumar Deepanshu.
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="40px"> About me
+
 
 
 
@@ -21,7 +21,7 @@ I am a Computer science Undergrad and a web developer. I really enjoy learning l
 
 ## 📊 Github Analytics 
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumard3&theme=dark" alt="kumard3"/>
+
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
